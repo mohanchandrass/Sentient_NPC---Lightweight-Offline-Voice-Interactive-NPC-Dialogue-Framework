@@ -159,13 +159,13 @@ Sentient_NPC/
 
 ## Authors
 
-- **Mohan Chandra S S** - Btech(Hons.) AI & ML Major
-- **Mohith R** - Btech(Hons.) AI & ML Major
-- **Nithish Gowda H N** - Btech(Hons.) AI & ML Major
+- **Mohan Chandra S S** - Btech(Hons.) CSE, AI & ML Major
+- **Mohith R** - Btech(Hons.) CSE, AI & ML Major
+- **Nithish Gowda H N** - Btech(Hons.) CSE, AI & ML Major
 
 ---
 
-## 📊 Result Visualizations
+## Result Visualizations
 
 The following sections showcase the performance metrics, structural design, and interpretability of the Sentient_NPC framework.
 
